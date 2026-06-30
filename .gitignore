@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+*.dta
+*.csv
+*.xlsx
+data/
+paths.py
+!data/sample/*.csv
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+*.db
+*.db.wal
+paths_local.py
